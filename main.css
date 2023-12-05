@@ -1,0 +1,37 @@
+a#active {
+color: Coral;
+}
+
+.form-contro {
+  color: rgb(0, 128, 0);
+  font-size: 200%;
+  text-align: center;
+}
+
+.view {
+  background-color: rgb(245, 245, 220);
+}
+.form-controd {
+  color: rgb(0, 128, 0);
+  font-size: 100%;
+  float: right;
+}
+
+.dostsvka {
+  max-height: 200px;
+  width: 200px;
+  float:left;
+  margin: 20px;
+  margin-top: 0;
+  line-height: 10em;
+}
+
+.my-carousel .carousel-item {
+    max-height: 600px;
+    width: flex;
+    
+  }
+
+  .my-carousel .carousel-item img{
+    object-fit: cover;
+  }
